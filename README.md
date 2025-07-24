@@ -21,3 +21,9 @@
   <img width="765" height="241" alt="Screenshot 2025-07-24 at 12 39 57" src="https://github.com/user-attachments/assets/7089542c-24f4-462c-af0e-9cb0fb9c4b35" />
 
 ### Planning 
+  1) The planning phase of DevOps is one of the most important phase, which decide the failure or success of the project.
+  2) In this phase, all stakeholders come together and decide what needs to be built, how to build, and how to deliver.
+  3) Before DevOps, the software pipeline was considered a straight line, but DevOps changed it to a continuous and dynamic process.
+  4) Also called linear process (2D) and continuous process (3D)
+<img width="1536" height="1024" alt="planning" src="https://github.com/user-attachments/assets/1a0a7f74-78e8-479c-9dbb-2858c003e654" />
+
