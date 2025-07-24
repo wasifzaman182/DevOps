@@ -33,5 +33,14 @@
  3) Modern DevOps pipelines are 3D, circular, and feedback-driven, integrating design, feedback, and deployment, unlike the linear Waterfall model.
 <img width="1024" height="1024" alt="planningD" src="https://github.com/user-attachments/assets/fd39e19d-d43f-40f8-8a05-3869f4281764" />
 
-    
+### Coding 
+1) Coding is seen as glamorous but is just the execution of prior planning and design, which are the real keys to success.
+2) Strong planning and design make coding simple; over-crediting coding is misguided.
+3) This 2D linear mindset shifts in Part 3 to a 3D DevOps pipeline with interconnected stages and continuous feedback, not a fixed start-to-end line.
+
+### Testing 
+1) Testing involves all engineers (not just QA), offering a chance to learn about testing, maintainability, and security.
+2) Various methods ensure software meets expected behaviour.
+3) This 2D linear pipeline shifts in Part 3 to a 3D continuous model, with testing as a dynamic, feedback-driven process.
+<img width="1024" height="1024" alt="plT" src="https://github.com/user-attachments/assets/3908e69f-4721-4520-9a90-d7c75ae4a513" />
 
