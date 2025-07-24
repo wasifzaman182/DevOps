@@ -16,3 +16,6 @@
   9) Then monitor the application/deployment using tools like **Nagios**
   10) Last but not least, **Jenkins**, to perform all these operations automatically and combine the Dev and Ops teams.
         . Pipelines are created  to manage all the processes before going to production.
+
+# Development life cycle
+  <img width="765" height="241" alt="Screenshot 2025-07-24 at 12 39 57" src="https://github.com/user-attachments/assets/7089542c-24f4-462c-af0e-9cb0fb9c4b35" />
