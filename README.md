@@ -49,3 +49,16 @@
  2) This linear, 2D approach gave each team a distinct stage with limited responsibility.
  3) In modern DevOps (per Part 3), the pipeline is 3D: release is a shared responsibility where development, QA, and ops collaborate via automated CI/CD pipelines, making it a continuous, collaborative process, not just an endpoint.
 
+### Maintaining 
+1) After software goes live in the production environment, it still requires active support and improvement—this is called the maintenance phase.
+2) Fixing bugs reported by users
+3) Adding new features based on feedback
+4) Applying security patches
+5) Updating for compatibility (e.g., new OS/browser support)
+
+### Deprecating
+1) When a feature or entire software becomes obsolete or is replaced by a new version, it is "deprecated"—gradually phased out of use.
+2) Users are notified that the feature or software version will no longer be supported.
+3) Migration plans are created (e.g., moving from an old API to a new one).
+4) An end-of-life (EOL) date is announced.
+5) Security support is gradually discontinued.
