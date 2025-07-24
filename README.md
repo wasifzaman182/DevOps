@@ -44,3 +44,8 @@
 3) This 2D linear pipeline shifts in Part 3 to a 3D continuous model, with testing as a dynamic, feedback-driven process.
 <img width="1024" height="1024" alt="plT" src="https://github.com/user-attachments/assets/3908e69f-4721-4520-9a90-d7c75ae4a513" />
 
+### Deploying 
+ 1) Traditionally, deployment/release was the operations team's domain: developers wrote code, QA tested it, and ops deployed "ready code" to customers.
+ 2) This linear, 2D approach gave each team a distinct stage with limited responsibility.
+ 3) In modern DevOps (per Part 3), the pipeline is 3D: release is a shared responsibility where development, QA, and ops collaborate via automated CI/CD pipelines, making it a continuous, collaborative process, not just an endpoint.
+
