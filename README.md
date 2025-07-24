@@ -27,3 +27,11 @@
   4) Also called linear process (2D) and continuous process (3D)
 <img width="1536" height="1024" alt="planning" src="https://github.com/user-attachments/assets/1a0a7f74-78e8-479c-9dbb-2858c003e654" />
 
+### Designing
+ 1) Mixing design and coding phases blurs the distinction between software architecture (e.g., APIs, databases) and implementation, leading to poor strategic decisions.
+ 2) Delayed architectural decisions (e.g., database design) result in weak and inconsistent software structures, reflecting outdated 2D linear thinking.
+ 3) Modern DevOps pipelines are 3D, circular, and feedback-driven, integrating design, feedback, and deployment, unlike the linear Waterfall model.
+<img width="1024" height="1024" alt="planningD" src="https://github.com/user-attachments/assets/fd39e19d-d43f-40f8-8a05-3869f4281764" />
+
+    
+
