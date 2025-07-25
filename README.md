@@ -62,3 +62,14 @@
 3) Migration plans are created (e.g., moving from an old API to a new one).
 4) An end-of-life (EOL) date is announced.
 5) Security support is gradually discontinued.
+
+# Designing for DevOps
+In DevOps, software is carefully planned to help users the most. Keep these three rules in mind:
+
+**Build for Change:** Old code isn’t bad—it’s just outdated because it needs to change fast. Make software easy to update with:
+  1) Independent parts
+  2) Clear documentation
+  3) Standard methods
+  4) Easy-to-move code
+**Keep Code Consistent:** As your team and software grow, make the code look like one person wrote it, including infrastructure code.
+**Always Improve: **Use linting tools to set style rules (like adding semicolons), keeping the codebase clean and consistent, even if it’s not perfect.
