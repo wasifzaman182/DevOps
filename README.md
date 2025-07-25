@@ -73,4 +73,5 @@ In DevOps, software is carefully planned to help users the most. Keep these thre
   4) Easy-to-move code
      
 **Keep Code Consistent:** As your team and software grow, make the code look like one person wrote it, including infrastructure code.
+
 **Always Improve:** Use linting tools to set style rules (like adding semicolons), keeping the codebase clean and consistent, even if it’s not perfect.
