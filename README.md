@@ -1,4 +1,24 @@
-# DevOps
+# Network basics and DevOps 
+ Find the difference between LAN, MAN, and WAN
+ Search engine behind the different browsers
+ What is DNS 
+ different network devices like a switch, router, modem, hub and so on
+ | Device                | Role in Home Setup                                     |
+| --------------------- | ------------------------------------------------------ |
+| **Modem**             | ISP signal receive + convert karta hai                 |
+| **Router**            | Sab devices ko connect karta hai, IP assign karta hai  |
+| **Switch** (optional) | Wired devices ko efficiently connect karta hai         |
+| **Access Point**      | Wireless internet provide karta hai                    |
+| **Firewall**          | Tumhara network secure rakhta hai                      |
+| **Devices**           | Tumhare phone, laptop, TV — jo internet use karte hain |
+
+ command to print Google IP address
+ DNS tree structure 
+ different Protoclos 
+ Explain IP address , what is IP4 and IPv6
+ OSI Model
+ TCP IP model
+ 
 # Before DevOps
   1) The development team build the code and hands it over to the operations team for deployment. 
   2) The operations team deploy the code and shares the feedback with the Development team.
